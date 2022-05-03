@@ -11,10 +11,10 @@ Esse projeto foi desenvolvido como desafio do Bootcamp Spread Fullstack Develope
 
 **Mobile**:
 
-<a href="https://thiagothree.github.io/instagram-login-page/"><img src="assets/images/mobile-screenshot.png"></a>
+<a href="https://thiagothree.github.io/FlexTourismos/"><img src="assets/images/mobile-screenshot.png"></a>
 
 **Desktop**:
 
-<a href="https://thiagothree.github.io/instagram-login-page/"><img src="assets/images/desktop-screenshot.png"></a>
+<a href="https://thiagothree.github.io/FlexTourismos/"><img src="assets/images/desktop-screenshot.png"></a>
 
 **Link**: https://thiagothree.github.io/FlexTourismos/
